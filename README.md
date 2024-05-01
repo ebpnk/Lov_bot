@@ -4,7 +4,8 @@
 
 Запуск:
 
-Установить Python (PC или VPS/VDS)
-Установить pip install pyTelegramBotAPI
-Запустить python3 Lov_1vs1_bot.py
-В коде нужно установить свой TOKEN = "Сюда токен бота" она находится на строке 5.
+
+1.Установить Python (PC или VPS/VDS)
+2.Установить pip install pyTelegramBotAPI
+3.Запустить python3 Lov_1vs1_bot.py
+4.В коде нужно установить свой TOKEN = "Сюда токен бота" она находится на строке 5.
